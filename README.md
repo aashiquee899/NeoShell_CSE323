@@ -43,21 +43,21 @@ The only "safe" alternative until now was setting up a full Virtual Machine — 
 ### 🖥️ OS Selection Screen
 Choose your terminal environment on launch — Windows CMD, macOS Zsh, or Linux Bash.
 
-![NeoShell OS Selector](screenshots/selector.png)
+![NeoShell OS Selector](screenshots/screenshots1.png)
 
 ---
 
 ### 🍎 macOS Zsh Mode — Terminal + Help
 Authentic `student@mac ~ %` prompt with full command support and color-coded output.
 
-![NeoShell macOS Terminal](screenshots/macos.png)
+![NeoShell macOS Terminal](screenshots/screenshots2.png)
 
 ---
 
 ### 📝 Built-in nano Editor
 Type `nano filename.txt` to open a fully functional in-app text editor. Save with `Ctrl+S`, exit with `Ctrl+X`.
 
-![NeoShell Nano Editor](screenshots/nano.png)
+![NeoShell Nano Editor](screenshots/screenshots3.png)
 
 ---
 
