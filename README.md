@@ -4,7 +4,7 @@
 
 ### A safe, simulated terminal emulator built with Java Swing
 
-## Video Link of the Project: https://youtu.be/G_mlqlm-AqY
+#### Video Link of the Project: https://youtu.be/G_mlqlm-AqY
 
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.8%2B-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
